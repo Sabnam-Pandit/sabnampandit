@@ -1,20 +1,23 @@
 ---
-title: 'Experience/Education'
-date: 2023-10-24
+title: Education
+summary: My courses
 type: landing
 
-design:
-  spacing: '5rem'
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
+
 sections:
   - block: resume-experience
     content:
       username: admin
     design:
-    
+      # Hugo date format
       date_format: 'January 2006'
-      
+      # Education or Experience section first?
       is_education_first: false
 ---
-
 
 

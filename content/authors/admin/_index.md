@@ -13,7 +13,6 @@ last_name: Pandit
   # icon: ☕️
 
 # Is this the primary user of the site?
-type: author
 superuser: true
 
 # Highlight the author in author lists? (true/false)
@@ -115,24 +114,56 @@ education:
 
 
 experience:
-  - organization: "San Diego State University"
-    role: "Research Assistant"
-    location: "San Diego, CA"
+  - area: Research Assistant
+    institution: SDSU
     date_start: 2023-08-21
     date_end: 2025-05-18
-    description: |
-      - Conducted research in machine learning applications to wildlife bioacoustics.
-      - Worked with audio embeddings and unsupervised learning to analyze biodiversity.
-  - organization: "FocusOne Health"
-    role: "Data Scientist Intern"
-    location: "San Diego, CA"
-    date_start: 2023-06-01
-    date_end: 2023-08-31
-    description: |
-      - Built predictive models to support healthcare operations.
-      - Developed dashboards and performed data analysis.
+    summary: |
+      Conducted research in machine learning applications to wildlife bioacoustics.
+      Worked with audio embeddings and unsupervised learning to analyze biodiversity.
+      
+  
+  - area: Masters in Business Administration-Information Technology
+    institution: Tribhuvan University
+    date_start: 2019-03-01
+    date_end: 2021-04-01
+    summary: |
+      GPA: 3.73/4.0
 
-    
+      Courses included:
+      - Finance
+      - Marketing
+      - Accounts
+      - Strategic Management
+      - Managerial Economics
+      - Statistics
+      - Human Resource Management
+      - Organizational Management
+      - Business Intelligence
+      - Database Management
+      - Emerging Technology
+      - Cyber Security
+      - Research
+      - Big Data Analytics
+      - E and M Commerce
+        
+  - area: Bachelor in Computer Engineering
+    institution: Visvesvaraya Technological University
+    date_start: 2014-08-09
+    date_end: 2018-06-01
+    summary: |
+      Courses included:
+      - C, C++, Java
+      - Object Oriented Programming
+      - Computer Networks
+      - Cyber Security
+      - Data Structure
+      - Operating Systems
+      - Database Management
+      - Maths
+      - Microprocessor
+      - Logic Design
+      - UNIX
 
 
 # Skills

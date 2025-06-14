@@ -1,13 +1,17 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Supply and Demand of EV Charging stations in relation to EV Population in Washington State
+date: 2023-11-26
+external_link: https://github.com/Sabnam-Pandit/EV-Charging-Stations-in-WA-state
+project_website: https://sites.google.com/sdsu.edu/ev-chargingstations/about?authuser=0
+
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Machine Learning (Regression Model)
+  - Python
+  - Tableau
+  - Arc GIS
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Supply and Demand of EV Charging stations in relation to EV Population in Washington State. We have also taken Income and Education data of Washington state in consideration for dependent variable to Charging station which is a dependent variable.
 
 <!--more-->
+
