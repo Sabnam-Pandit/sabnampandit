@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sabnam Pandit</title>
-    <link>http://localhost:1313/event/</link>
-      <atom:link href="http://localhost:1313/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sabnam-pandit.github.io/event/</link>
+      <atom:link href="https://sabnam-pandit.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Sabnam Pandit</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://sabnam-pandit.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Sabnam Pandit</title>
-      <link>http://localhost:1313/event/</link>
+      <link>https://sabnam-pandit.github.io/event/</link>
     </image>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/event/example/</link>
+      <link>https://sabnam-pandit.github.io/event/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
+      <guid>https://sabnam-pandit.github.io/event/example/</guid>
       <description>&lt;!-- ---
 title: Example Talk
 

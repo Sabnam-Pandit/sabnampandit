@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sabnam Pandit</title>
-    <link>http://localhost:1313/</link>
-      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://sabnam-pandit.github.io/</link>
+      <atom:link href="https://sabnam-pandit.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Sabnam Pandit</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://sabnam-pandit.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Sabnam Pandit</title>
-      <link>http://localhost:1313/</link>
+      <link>https://sabnam-pandit.github.io/</link>
     </image>
     
     <item>
       <title>🎓 I Just Graduated!</title>
-      <link>http://localhost:1313/blogs/data-visualization/</link>
+      <link>https://sabnam-pandit.github.io/blogs/data-visualization/</link>
       <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blogs/data-visualization/</guid>
+      <guid>https://sabnam-pandit.github.io/blogs/data-visualization/</guid>
       <description>&lt;h1 id=&#34;-i-just-graduated-a-journey-of-growth-grit-and-gratitude&#34;&gt;🎓 I Just Graduated! A Journey of Growth, Grit, and Gratitude&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;Reflections from my Master’s in Big Data Analytics at San Diego State University&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -57,7 +57,7 @@
                /blogs/data-visualization/IMG_3083_hu14423639031506147919.webp 400w,
                /blogs/data-visualization/IMG_3083_hu6301998562049629624.webp 760w,
                /blogs/data-visualization/IMG_3083_hu11614565346392919939.webp 1200w&#34;
-               src=&#34;http://localhost:1313/blogs/data-visualization/IMG_3083_hu14423639031506147919.webp&#34;
+               src=&#34;https://sabnam-pandit.github.io/blogs/data-visualization/IMG_3083_hu14423639031506147919.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -112,7 +112,7 @@ Growth comes from stepping out of your comfort zone.&lt;/p&gt;
                /blogs/data-visualization/BDA_hu14788389791571755406.webp 400w,
                /blogs/data-visualization/BDA_hu6129197088244695018.webp 760w,
                /blogs/data-visualization/BDA_hu458919894707480701.webp 1200w&#34;
-               src=&#34;http://localhost:1313/blogs/data-visualization/BDA_hu14788389791571755406.webp&#34;
+               src=&#34;https://sabnam-pandit.github.io/blogs/data-visualization/BDA_hu14788389791571755406.webp&#34;
                width=&#34;760&#34;
                height=&#34;592&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -133,17 +133,17 @@ Growth comes from stepping out of your comfort zone.&lt;/p&gt;
     
     <item>
       <title>Book Genre Prediction</title>
-      <link>http://localhost:1313/project/bookgenreprediction/</link>
+      <link>https://sabnam-pandit.github.io/project/bookgenreprediction/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/bookgenreprediction/</guid>
+      <guid>https://sabnam-pandit.github.io/project/bookgenreprediction/</guid>
       <description>&lt;p&gt;This project focuses on predicting the genre of a book based on its description using Natural Language Processing (NLP) techniques. The goal is to help readers find books they are more likely to enjoy by accurately classifying books into their respective genres. We fine-tuned multiple pre-trained language models (BERT, RoBERTa, and DistilBERT) to achieve this task.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Exploring the History of Unemployment Rates in the United States</title>
-      <link>http://localhost:1313/project/timeseries/</link>
+      <link>https://sabnam-pandit.github.io/project/timeseries/</link>
       <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/timeseries/</guid>
+      <guid>https://sabnam-pandit.github.io/project/timeseries/</guid>
       <description>&lt;p&gt;This project explores the historical unemployment rates in the United States using time series forecasting techniques. The analysis focuses on state-specific trends, gender-based unemployment rates, and overall unemployment trends. The goal is to identify patterns, seasonality, and factors influencing unemployment, and to forecast future unemployment rates using ARIMA and SARIMA models.Statistical algorithms were utilized to make short- term and long-term
 predictions. This analysis is crucial as unemployment rates are key economic indicators that
 directly impact policymaking, business planning, and personal well-being.&lt;/p&gt;</description>
@@ -151,33 +151,33 @@ directly impact policymaking, business planning, and personal well-being.&lt;/p&
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://sabnam-pandit.github.io/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://sabnam-pandit.github.io/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Energy Consumption and Generation Prediction based on Weather Conditions</title>
-      <link>http://localhost:1313/project/energypred/</link>
+      <link>https://sabnam-pandit.github.io/project/energypred/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/energypred/</guid>
+      <guid>https://sabnam-pandit.github.io/project/energypred/</guid>
       <description>&lt;p&gt;This project aims to predict energy consumption and generation based on weather conditions in Spain, using machine learning algorithms and the Kaggle dataset &amp;ldquo;Hourly energy demand generation and weather&amp;rdquo;. Our goal is to promote renewable energy generation and reduce carbon emissions.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Multivariate Crime Data Visualization by States</title>
-      <link>http://localhost:1313/project/crimeanalysis/</link>
+      <link>https://sabnam-pandit.github.io/project/crimeanalysis/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/crimeanalysis/</guid>
+      <guid>https://sabnam-pandit.github.io/project/crimeanalysis/</guid>
       <description>&lt;p&gt;This project is a multivariate crime data visualization tool built using p5.js. It provides an interactive interface to explore historical crime data across U.S. states. Users can view trends over time and understand the distribution of various crime types.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Supply and Demand of EV Charging Stations in Relation to EV Population in Washington State</title>
-      <link>http://localhost:1313/project/evchargingstations/</link>
+      <link>https://sabnam-pandit.github.io/project/evchargingstations/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/evchargingstations/</guid>
+      <guid>https://sabnam-pandit.github.io/project/evchargingstations/</guid>
       <description>&lt;p&gt;Explore the supply and demand of EV charging stations across Washington State in relation to the EV population. This analysis also considers &lt;strong&gt;income and education levels&lt;/strong&gt; as factors influencing the distribution of charging stations.&lt;/p&gt;
 &lt;!-- Separate button below the card --&gt;
 &lt;p style=&#34;text-align:center; margin-top:20px;&#34;&gt;
@@ -189,25 +189,25 @@ directly impact policymaking, business planning, and personal well-being.&lt;/p&
     
     <item>
       <title>Image-Driven Captioning and Custom Music Recommendations</title>
-      <link>http://localhost:1313/project/imagecaption/</link>
+      <link>https://sabnam-pandit.github.io/project/imagecaption/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/imagecaption/</guid>
+      <guid>https://sabnam-pandit.github.io/project/imagecaption/</guid>
       <description>&lt;p&gt;We aim to develop an Image Captioning and Music Recommendation System which accepts images as input and produces platform suitable captions and music as an output.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Experience/Education</title>
-      <link>http://localhost:1313/experience/</link>
+      <link>https://sabnam-pandit.github.io/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
+      <guid>https://sabnam-pandit.github.io/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/event/example/</link>
+      <link>https://sabnam-pandit.github.io/event/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/example/</guid>
+      <guid>https://sabnam-pandit.github.io/event/example/</guid>
       <description>&lt;!-- ---
 title: Example Talk
 
@@ -300,9 +300,9 @@ Further event details, including [page elements](https://docs.hugoblox.com/refer
     
     <item>
       <title></title>
-      <link>http://localhost:1313/publication/conference-paper/</link>
+      <link>https://sabnam-pandit.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <guid>https://sabnam-pandit.github.io/publication/conference-paper/</guid>
       <description>&lt;!-- ---
 title: 🎓 I Just Graduated!
 summary: Reflections from my Master’s in Big Data Analytics at San Diego State University
@@ -408,9 +408,9 @@ To anyone reading this who’s about to embark on a similar path: keep learning,
     
     <item>
       <title></title>
-      <link>http://localhost:1313/publication/journal-article/</link>
+      <link>https://sabnam-pandit.github.io/publication/journal-article/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/journal-article/</guid>
+      <guid>https://sabnam-pandit.github.io/publication/journal-article/</guid>
       <description>&lt;!-- ---
 title: 🎓 I Just Graduated!
 summary: Reflections from my Master’s in Big Data Analytics at San Diego State University
@@ -516,9 +516,9 @@ To anyone reading this who’s about to embark on a similar path: keep learning,
     
     <item>
       <title></title>
-      <link>http://localhost:1313/publication/preprint/</link>
+      <link>https://sabnam-pandit.github.io/publication/preprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/preprint/</guid>
+      <guid>https://sabnam-pandit.github.io/publication/preprint/</guid>
       <description>&lt;!-- ---
 title: &#34;An example preprint / working paper&#34;
 authors:

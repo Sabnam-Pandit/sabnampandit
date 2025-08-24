@@ -2,149 +2,149 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blogs/data-visualization/</loc>
+    <loc>https://sabnam-pandit.github.io/blogs/data-visualization/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/blogs/</loc>
+    <loc>https://sabnam-pandit.github.io/blogs/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/class-of-2025/</loc>
+    <loc>https://sabnam-pandit.github.io/tags/class-of-2025/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/graduated/</loc>
+    <loc>https://sabnam-pandit.github.io/tags/graduated/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://sabnam-pandit.github.io/tags/</loc>
     <lastmod>2025-05-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/bookgenreprediction/</loc>
+    <loc>https://sabnam-pandit.github.io/project/bookgenreprediction/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/language-models/</loc>
+    <loc>https://sabnam-pandit.github.io/tags/language-models/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/natural-language-processing/</loc>
+    <loc>https://sabnam-pandit.github.io/tags/natural-language-processing/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>https://sabnam-pandit.github.io/project/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
+    <loc>https://sabnam-pandit.github.io/tags/python/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/web-scraping/</loc>
+    <loc>https://sabnam-pandit.github.io/tags/web-scraping/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/arima/</loc>
+    <loc>https://sabnam-pandit.github.io/tags/arima/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/timeseries/</loc>
+    <loc>https://sabnam-pandit.github.io/project/timeseries/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/r-programming/</loc>
+    <loc>https://sabnam-pandit.github.io/tags/r-programming/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/time-series-forecasting/</loc>
+    <loc>https://sabnam-pandit.github.io/tags/time-series-forecasting/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://sabnam-pandit.github.io/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/data-visualization/</loc>
+    <loc>https://sabnam-pandit.github.io/tags/data-visualization/</loc>
     <lastmod>2024-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/energypred/</loc>
+    <loc>https://sabnam-pandit.github.io/project/energypred/</loc>
     <lastmod>2024-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/machine-learning/</loc>
+    <loc>https://sabnam-pandit.github.io/tags/machine-learning/</loc>
     <lastmod>2024-04-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/arc-gis/</loc>
+    <loc>https://sabnam-pandit.github.io/tags/arc-gis/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/java-script/</loc>
+    <loc>https://sabnam-pandit.github.io/tags/java-script/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/machine-learning-regression-model/</loc>
+    <loc>https://sabnam-pandit.github.io/tags/machine-learning-regression-model/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/mapbox/</loc>
+    <loc>https://sabnam-pandit.github.io/tags/mapbox/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/crimeanalysis/</loc>
+    <loc>https://sabnam-pandit.github.io/project/crimeanalysis/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/p5js/</loc>
+    <loc>https://sabnam-pandit.github.io/tags/p5js/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/evchargingstations/</loc>
+    <loc>https://sabnam-pandit.github.io/project/evchargingstations/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/tableau/</loc>
+    <loc>https://sabnam-pandit.github.io/tags/tableau/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/tags/computer-vision-algorithm/</loc>
+    <loc>https://sabnam-pandit.github.io/tags/computer-vision-algorithm/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/imagecaption/</loc>
+    <loc>https://sabnam-pandit.github.io/project/imagecaption/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/experience/</loc>
+    <loc>https://sabnam-pandit.github.io/experience/</loc>
     <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://sabnam-pandit.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/</loc>
+    <loc>https://sabnam-pandit.github.io/event/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/event/example/</loc>
+    <loc>https://sabnam-pandit.github.io/event/example/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>https://sabnam-pandit.github.io/publication/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/conference-paper/</loc>
+    <loc>https://sabnam-pandit.github.io/publication/conference-paper/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/journal-article/</loc>
+    <loc>https://sabnam-pandit.github.io/publication/journal-article/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/preprint/</loc>
+    <loc>https://sabnam-pandit.github.io/publication/preprint/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>https://sabnam-pandit.github.io/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
